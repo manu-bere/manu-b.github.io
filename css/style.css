@@ -1,0 +1,158 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  text-decoration: none;
+}
+
+/* HEADER INDEX*/
+.heade-index section div nav div div .navbar-nav .texto-gris-index {
+  color: rgb(171, 171, 171);
+}
+.heade-index section div nav div div .navbar-nav .texto-blanco-index {
+  color: white;
+}
+
+/*HEADER SALUD*/
+.heade-salud section div nav div div div .texto-gris-salud {
+  color: rgb(171, 171, 171);
+}
+.heade-salud section div nav div div div .texto-blanco-salud {
+  color: white;
+}
+
+/*HEADER ALIMENTACION*/
+.heade-alimentación section div nav div div div .texto-gris-alimentación {
+  color: rgb(171, 171, 171);
+}
+.heade-alimentación section div nav div div div .texto-blanco-alimentación {
+  color: white;
+}
+
+/*HEADER IMPORTANCIA DEL DEPORTE*/
+.heade-importancia-deporte section div nav div div div .texto-gris-importancia-deporte {
+  color: rgb(171, 171, 171);
+}
+.heade-importancia-deporte section div nav div div div .texto-blanco-importancia-deporte {
+  color: white;
+}
+
+/*HEADER COMIDAS SANAS*/
+.heade-comidas-sanas section div nav div div div .texto-gris-comidas-sanas {
+  color: rgb(171, 171, 171);
+}
+.heade-comidas-sanas section div nav div div div .texto-blanco-comidas-sanas {
+  color: white;
+}
+
+/*HEADER CALCULA IMC*/
+.heade-calcula-imc section div nav div div div .texto-gris-calcula-imc {
+  color: rgb(171, 171, 171);
+}
+.heade-calcula-imc section div nav div div div .texto-blanco-calcula-imc {
+  color: white;
+}
+
+/*main index*/
+.inde-main .fondo-deporte-inde {
+  background-image: url("https://i.pinimg.com/564x/49/78/76/497876efcf9f68cb30b2f6a6bb04f60a.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 1400px; /* Limita el ancho máximo del contenedor */
+  width: 100%;
+  height: 50%; /* Ajusta la altura del contenedor */
+}
+.inde-main .fondo-deporte-inde article div {
+  color: white;
+  text-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
+}
+.inde-main .fondo-deporte-inde article div h1 {
+  text-align: center;
+}
+.inde-main .fondo-deporte-inde article p {
+  text-align: center;
+}
+.inde-main .margen-index- {
+  margin-top: 40px !important;
+}
+.inde-main .margen-index- #pdm .tarjetass-- .tarjeta-index .espaciado-tarjetas h3 {
+  text-align: center;
+}
+.inde-main .margen-index- #pdm .tarjetass-- .tarjeta-index .espaciado-tarjetas .card {
+  margin-bottom: 30px;
+  transition: 1s;
+}
+.inde-main .margen-index- #pdm .tarjetass-- .tarjeta-index .espaciado-tarjetas .card:hover {
+  box-shadow: 3px 5px 7px black;
+  transition: 1s;
+}
+
+/*MAIN-SALUD */
+.salud-main section section article .texto-salud .lista-salud li a {
+  text-decoration: none;
+}
+.salud-main section section section .tarjetas .espaciado-tarjetas {
+  margin-bottom: 20px;
+}
+.salud-main section section section .tarjetas .espaciado-tarjetas h3 {
+  text-align: center;
+}
+.salud-main section section section .tarjetas .espaciado-tarjetas .card {
+  transition: 1s;
+}
+.salud-main section section section .tarjetas .espaciado-tarjetas .card:hover {
+  box-shadow: 3px 5px 7px black;
+  transition: 1s;
+}
+
+/*MAIN ALIMENTACION*/
+.alim-main section section section .alimentacion-c .img-centrada- {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%; /* Ajusta el ancho máximo de la imagen al ancho del contenedor */
+  height: auto; /* Ajusta automáticamente la altura según el ancho */
+  margin-bottom: 20px; /* Espacio entre la imagen y el texto */
+}
+.alim-main section section section .tarjeta-alimentacion .alimentacion-c .img-centrada-1 {
+  width: 60vh;
+}
+.alim-main section section section .tarjeta-alimentacion .alimentacion-c .img-centrada-2 {
+  width: 60vh;
+}
+.alim-main section section section .tarjeta-alimentacion .alimentacion-c .img-centrada-3 {
+  width: 60vh;
+}
+.alim-main section section section .espaciado-tarjetas {
+  margin-bottom: 25px;
+}
+.alim-main section section section .espaciado-tarjetas h3 {
+  text-align: center;
+}
+.alim-main section section section .espaciado-tarjetas .card {
+  transition: 1s;
+}
+.alim-main section section section .espaciado-tarjetas .card:hover {
+  box-shadow: 3px 5px 7px black;
+  transition: 1s;
+}
+
+/*MAIN IMPORTANCIA DEL DEPORTE*/
+main section section .tarjeta-importanciadep {
+  margin-bottom: 25px;
+}
+main section section .tarjeta-importanciadep .espaciado-tarjetas h3 {
+  text-align: center;
+}
+main section section .tarjeta-importanciadep .espaciado-tarjetas .card {
+  transition: 1s;
+}
+main section section .tarjeta-importanciadep .espaciado-tarjetas .card:hover {
+  box-shadow: 3px 5px 8px black;
+  transition: 1s;
+}
+
+/*# sourceMappingURL=style.css.map */

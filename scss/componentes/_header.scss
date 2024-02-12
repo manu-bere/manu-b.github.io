@@ -1,0 +1,146 @@
+
+$color-gris-header: rgb(171, 171, 171);
+
+
+/* HEADER INDEX*/
+.heade-index{
+    section{
+        div{
+            nav{
+                div{
+                    div{
+                        .navbar-nav{
+                            .texto-gris-index{
+                                color: $color-gris-header;
+                            }
+                            .texto-blanco-index{
+                                color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*HEADER SALUD*/
+
+.heade-salud {
+    section {
+        div {
+            nav {
+                div {
+                    div {
+                        div {
+                            .texto-gris-salud {
+                                color: $color-gris-header;
+                            }
+                            .texto-blanco-salud {
+                                color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*HEADER ALIMENTACION*/
+
+.heade-alimentación {
+    section {
+        div {
+            nav {
+                div {
+                    div {
+                        div {
+                            .texto-gris-alimentación {
+                                color: $color-gris-header;
+                            }
+                            .texto-blanco-alimentación {
+                                color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*HEADER IMPORTANCIA DEL DEPORTE*/
+
+.heade-importancia-deporte {
+    section {
+        div {
+            nav {
+                div {
+                    div {
+                        div {
+                            .texto-gris-importancia-deporte {
+                                color: $color-gris-header;
+                            }
+                            .texto-blanco-importancia-deporte {
+                                color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*HEADER COMIDAS SANAS*/
+
+
+.heade-comidas-sanas {
+    section {
+        div {
+            nav {
+                div {
+                    div {
+                        div {
+                            .texto-gris-comidas-sanas{
+                                color: $color-gris-header;
+                            }
+                            .texto-blanco-comidas-sanas {
+                                color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*HEADER CALCULA IMC*/
+
+.heade-calcula-imc {
+    section {
+        div {
+            nav {
+                div {
+                    div {
+                        div {
+                            .texto-gris-calcula-imc{
+                                color: $color-gris-header;
+                            }
+                            .texto-blanco-calcula-imc {
+                                color: white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
